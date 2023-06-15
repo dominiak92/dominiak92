@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript and all about good state managment in React.**
 
-- 👨‍💻 All of my projects are available at [www.sebastiandominiak.pl](www.sebastiandominiak.pl)
+- 👨‍💻 All of my projects are available at [www.sebastiandominiak.pl](https://www.sebastiandominiak.pl)
 
 - 📫 How to reach me **sebastiandominiak92@gmail.com**
 
