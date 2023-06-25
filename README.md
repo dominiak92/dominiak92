@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Dominiak</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on [Countries App](https://github.com/dominiak92/countries-app)
+- 🔭 I’m currently working on [Invoice App](https://github.com/dominiak92/invoice-app)
 
 - 🌱 I’m currently learning **Typescript and all about good state managment in React.**
 
