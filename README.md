@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Invoice App](https://github.com/dominiak92/invoice-app)
 
-- 🌱 I’m currently learning **Typescript and all about good state managment in React.**
+- 🌱 I’m currently learning **Nuxt and building MEVN stack applications**
 
 - 👨‍💻 All of my projects are available at [www.sebastiandominiak.pl](https://www.sebastiandominiak.pl)
 
