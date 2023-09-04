@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Dominiak</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on [Invoice App](https://github.com/dominiak92/invoice-app)
+- 🔭 I’m currently working on [Kanban Task Management App](https://github.com/dominiak92/Kanban-task-management-app)
 
 - 🌱 I’m currently learning **Nuxt and building MEVN stack applications**
 
